@@ -1,16 +1,59 @@
-## Hi there 👋
+👋 Hi, I'm Emmanuella Danso
+Data Analyst | Insight Translator | Business-Focused Problem Solver
 
-<!--
-**emmanuella-danso/emmanuella-danso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn raw data into clear, decision-ready insights that drive real business outcomes.
 
-Here are some ideas to get you started:
+My work goes beyond dashboards — I analyse customer behaviour, revenue patterns, and operational performance to uncover hidden risks, growth opportunities, and actionable strategies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on clarity, accuracy, and impact — making data useful for decision-makers, not just analysts.
+
+🔍 What I Bring
+A structured, end-to-end approach (SQL → analysis → dashboards → recommendations)
+The ability to translate complex data into clear business decisions
+Strong focus on revenue impact, customer behaviour, and performance drivers
+Experience working with large, real-world datasets (50k–100k+ records)
+Insights that are practical, quantified, and actionable
+
+I don’t just analyse data — I connect it directly to business value.
+
+🛠️ Skills & Tools
+
+Data Analysis: Excel, SQL, Python (Pandas, NumPy)
+Visualization: Power BI (DAX, Power Query), Excel Dashboards
+Databases: MySQL, PostgreSQL
+
+Core Strengths:
+Data Cleaning • Data Modelling • Customer Analytics • KPI Design • Insight Communication • Business Analysis
+
+📌 Selected Projects
+📊 Omart Ghana — Customer & Revenue Analytics
+Analysed 99,000+ orders and 96,000 customers to evaluate revenue, retention, and operational performance
+Identified GHS 15M+ revenue opportunity from converting one-time buyers into repeat customers
+Quantified GHS 10.6M customer lifetime value at risk due to delivery inefficiencies
+Built end-to-end solution using SQL + Power BI, including CLV segmentation and KPI dashboards
+Delivered data-backed strategies for retention, logistics optimisation, and revenue stabilisation
+
+📈 RetailHub UK — Sales & Profitability Analysis
+Analysed £10M revenue dataset to assess sales performance, returns, and customer contribution
+Identified £894K revenue loss (9.17% return rate) and key drivers of returns
+Revealed high revenue concentration risk (top 5 customers = 23.86%)
+Built interactive dashboards in Power BI using DAX & Power Query
+Delivered recommendations to reduce returns, improve retention, and optimise product strategy
+
+🧹 Data Cleaning & Transformation Projects
+Cleaned and transformed messy datasets into reliable, analysis-ready data
+Handled missing values, duplicates, inconsistent formats, and structural issues
+Designed datasets suitable for accurate reporting and decision-making
+
+🌱 Currently Building
+Advanced SQL for cohort, retention, and behavioural analysis
+Python for automation and scalable data workflows
+More business-focused dashboards with real-world problem framing
+
+I’m continuously building projects that reflect real business impact — not just technical skills.
+
+🤝 Let’s Connect
+
+I’m open to data roles, collaborations, and projects where data can drive better decisions.
+
+If you're looking for someone who combines analytical thinking with real business insight, let’s connect.
