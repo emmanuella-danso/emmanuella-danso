@@ -63,24 +63,17 @@ Data Cleaning • Data Modelling • Customer Analytics • KPI Design • Insig
 - Repo: https://github.com/emmanuella-danso/RetailHub_UK_Analytics
 
 ---
-### 📈**AfriTel Ghana – Customer Churn Analytics**
-Python • SQL • Power BI • Telecom Analytics
+### 📈 *AfriTel Ghana – Customer Churn Analytics*
+*Python • SQL • Power BI • Telecom Analytics*
 
-A full end‑to‑end churn intelligence project analyzing **2,666 telecom customers** to uncover churn drivers, quantify revenue loss, and build actionable retention strategies.
-The analysis revealed a **14.55% churn rate**, driven by unresolved service issues, international plan dissatisfaction, and high‑value customer loss.
+End‑to‑end churn intelligence project analysing **2,666 telecom customers** to uncover churn drivers, revenue at risk, and retention opportunities. Identified a **14.55% churn rate** driven by unresolved service issues, international plan dissatisfaction, and high‑value customer loss.
 
-Key Highlights:
-
--Built churn segmentation model (High / Medium / Low Risk) using Python
-
--Identified service call threshold where churn jumps from **14% → 48% → 100%**
-
--Quantified $25,182 monthly revenue loss from churned customers
-
--SQL used to validate churn patterns, revenue gaps, and plan‑specific churn
-
--Designed Power BI dashboards for executive insights and churn monitoring
-
+**Key Highlights**
+- Built churn segmentation model (High / Medium / Low Risk) using Python  
+- Identified service call threshold where churn jumps **14% → 48% → 100%**  
+- Quantified **$25,182 monthly revenue loss** from churned customers  
+- SQL validation of churn patterns, revenue gaps, and plan‑specific churn  
+- Designed Power BI dashboards for executive‑level churn monitoring  
 GitHub Repository:  https://github.com/emmanuella-danso/AfriTel_Ghana_Analytics
 
 ### 🧹 **Data Cleaning & Transformation Projects**  
