@@ -46,7 +46,8 @@ Data Cleaning • Data Modelling • Customer Analytics • KPI Design • Insig
 - Identified **£894K revenue loss** (9.17% return rate)  
 - Revealed high revenue concentration risk (top 5 customers = 23.86%)  
 - Built interactive dashboards in Power BI  
-- Delivered recommendations to reduce returns and improve retention  
+- Delivered recommendations to reduce returns and improve retention
+- Repo: https://github.com/emmanuella-danso/RetailHub_UK_Analytics
 
 ---
 
